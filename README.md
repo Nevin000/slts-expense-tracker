@@ -378,10 +378,10 @@ Before submission, verify:
 Public repository:
 
 ```text
-https://github.com/YOUR_USERNAME/slts-expense-tracker
+https://github.com/Nevin000/slts-expense-tracker
 ```
 
-Replace `YOUR_USERNAME` with the GitHub account that owns the repository.
+Replace `Nevin000` with the GitHub account that owns the repository.
 
 ---
 
