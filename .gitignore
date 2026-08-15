@@ -1,0 +1,47 @@
+﻿# ==============================
+# Frontend
+# ==============================
+expense-tracker-frontend/node_modules/
+expense-tracker-frontend/dist/
+expense-tracker-frontend/.env
+expense-tracker-frontend/.env.local
+expense-tracker-frontend/.env.*.local
+
+# ==============================
+# Backend
+# ==============================
+expense-tracker-backend/target/
+expense-tracker-backend/.env
+
+# ==============================
+# Java / Maven
+# ==============================
+*.class
+*.log
+hs_err_pid*
+
+# ==============================
+# IDE
+# ==============================
+.idea/
+*.iml
+.vscode/
+
+# ==============================
+# OS
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Temporary files
+# ==============================
+*.tmp
+*.temp
